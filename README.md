@@ -1,8 +1,4 @@
 
-
-# hello-world
-tutorial Git Hub
-
 <!DOCTYPE html>
 <html>
   <head>
